@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Kinget Github Homepage</title>
+    <title>Peter Kinget</title>
     <link>https://peterkinget.github.io/</link>
-    <description>Recent content on Peter Kinget Github Homepage</description>
+    <description>Recent content on Peter Kinget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sun, 09 Oct 2022 14:15:14 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Longer_bio2</title>
