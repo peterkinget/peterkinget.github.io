@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</loc>
+    <lastmod>2022-10-15T18:10:59-04:00</lastmod>
+  </url><url>
+    <loc>https://peterkinget.github.io/</loc>
+    <lastmod>2022-10-15T18:10:59-04:00</lastmod>
+  </url><url>
+    <loc>https://peterkinget.github.io/posts/</loc>
+    <lastmod>2022-10-15T18:10:59-04:00</lastmod>
+  </url><url>
     <loc>https://peterkinget.github.io/pages/another-page/</loc>
     <lastmod>2022-10-15T17:53:10-04:00</lastmod>
   </url><url>
     <loc>https://peterkinget.github.io/pages/</loc>
     <lastmod>2022-10-15T17:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://peterkinget.github.io/</loc>
-    <lastmod>2022-10-15T17:53:10-04:00</lastmod>
-  </url><url>
     <loc>https://peterkinget.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-10-15T17:50:15-04:00</lastmod>
-  </url><url>
-    <loc>https://peterkinget.github.io/posts/</loc>
     <lastmod>2022-10-15T17:50:15-04:00</lastmod>
   </url><url>
     <loc>https://peterkinget.github.io/pages/longer_bio2/</loc>

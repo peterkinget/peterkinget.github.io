@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 17:53:10 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 18:10:59 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 08 01 Test</title>
+      <link>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</link>
+      <pubDate>Sat, 15 Oct 2022 18:10:59 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Another Page</title>
       <link>https://peterkinget.github.io/pages/another-page/</link>
