@@ -9,6 +9,15 @@
     <copyright>Peter Kinget</copyright>
     <lastBuildDate>Sat, 15 Oct 2022 18:10:59 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>https://peterkinget.github.io/publications/</link>
+      <pubDate>Sat, 15 Oct 2022 18:18:32 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/publications/</guid>
+      <description>Publications Books Book Chapters Journal Papers Conference Papers Tutorials Patents Books Peter Kinget and Michiel Steyaert, Analog VLSI integration of massive parallel signal processing systems, Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996. S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, Analog Circuit Design Techniques at 0.5V, Springer, ISBN 978-0-387-69953-0, 2007. R. Gharpurey, and P. Kinget, (Eds.), Ultra Wideband - Circuits, Transceivers and Systems, Springer, ISBN 978-0-387-37238-9, 2008. Book Chapters P.</description>
+    </item>
+    
+    <item>
       <title>2022 08 01 Test</title>
       <link>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</link>
       <pubDate>Sat, 15 Oct 2022 18:10:59 -0400</pubDate>
