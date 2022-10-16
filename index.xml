@@ -6,15 +6,91 @@
     <description>Recent content on Peter Kinget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Peter Kinget</copyright><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Peter Kinget</copyright>
+    <lastBuildDate>Sat, 15 Oct 2022 18:10:59 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://peterkinget.github.io/</link>
-      <pubDate>Sat, 15 Oct 2022 19:33:31 -0400</pubDate>
+      <title>Why_analog</title>
+      <link>https://peterkinget.github.io/why_analog/</link>
+      <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
       
-      <guid>https://peterkinget.github.io/</guid>
-      <description>Short Bio Peter Kinget is the Bernard J. Lechner Professor of Electrical Engineering at Columbia University in New York. He received his engineering and Ph.D. degrees in electrical engineering from the Katholieke Universiteit in Leuven (Belgium). His research group focusses on the design of analog and RF integrated circuits in scaled technologies and the novel systems or applications they enable in communications, sensing, and power management.
-Contact Peter Kinget Bernard J.</description>
+      <guid>https://peterkinget.github.io/why_analog/</guid>
+      <description>The (electronic) world is going Digital, why Analog? Note: If you have a suggestion for items or links to include in this list, do not hesitate to contact P. Kinget.
+&#34;The World is Analog&#34; [P. Kinget, Circuit Cellar #292, 11/2014] (pdf) &#34;Engineering the world through Analog&#34; (pdf) [H. Cozanian, TI E2E Community, Analog Wire Blog, 06/2013] Fun Facts:
+Analog links real-world senses like hearing, touching and seeing to the digital world A typical electronic design can have 15-20 analog chips for every embedded processor An estimated 96 billion analog ICs will be sold in 2013 &#34;</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://peterkinget.github.io/teaching/</link>
+      <pubDate>Sat, 15 Oct 2022 19:21:49 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/teaching/</guid>
+      <description>Teaching Fall 2022: EE4312 Analog Electronic Circuits Spring 2022: EE6350 VLSI Design Lab Fall 2021: EE4312 Analog Electronic Circuits Spring 2021: EE9303 Seminar in Electronic Circuits: Advanced Topics in IC Design Fall 2020B: EE4312 Analog Electronic Circuits (Fall B section) Spring 2020: EE9303 Seminar in Electronic Circuits: Advanced Topics in IC Design Fall 2017 - Fall 2019: teaching exemption as department chair Fall 2016 - Spring 2017: On sabbatical Spring 2016: EE6350 VLSI Design Lab</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://peterkinget.github.io/publications/</link>
+      <pubDate>Sat, 15 Oct 2022 18:18:32 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/publications/</guid>
+      <description>Publications Books Book Chapters Journal Papers Conference Papers Tutorials Patents Books Peter Kinget and Michiel Steyaert, Analog VLSI integration of massive parallel signal processing systems, Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996. S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, Analog Circuit Design Techniques at 0.5V, Springer, ISBN 978-0-387-69953-0, 2007. R. Gharpurey, and P. Kinget, (Eds.), Ultra Wideband - Circuits, Transceivers and Systems, Springer, ISBN 978-0-387-37238-9, 2008. Book Chapters P.</description>
+    </item>
+    
+    <item>
+      <title>2022 08 01 Test</title>
+      <link>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</link>
+      <pubDate>Sat, 15 Oct 2022 18:10:59 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another Page</title>
+      <link>https://peterkinget.github.io/pages/another-page/</link>
+      <pubDate>Sat, 15 Oct 2022 17:53:10 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/pages/another-page/</guid>
+      <description>This is another page</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://peterkinget.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 15 Oct 2022 17:50:15 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/posts/my-first-post/</guid>
+      <description>this is my first post ..</description>
+    </item>
+    
+    <item>
+      <title>Longer_bio2</title>
+      <link>https://peterkinget.github.io/pages/longer_bio2/</link>
+      <pubDate>Sun, 09 Oct 2022 14:15:14 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/pages/longer_bio2/</guid>
+      <description>Long Bio Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.D. (Summa cum Laude with Congratulations of the Jury) in electrical engineering from the Katholieke Universiteit Leuven, Belgium, in 1990 and 1996, respectively.
+From 1991 to 1995, he received a graduate fellowship from the Belgian National Fund for Scientific Research (NFWO) to work as a Research Assistant at the ESAT-MICAS of the Katholieke Universiteit Leuven.</description>
+    </item>
+    
+    <item>
+      <title>Longer_bio</title>
+      <link>https://peterkinget.github.io/pages/longer_bio/</link>
+      <pubDate>Sun, 09 Oct 2022 13:55:38 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/pages/longer_bio/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://peterkinget.github.io/about/</link>
+      <pubDate>Thu, 06 Oct 2022 19:09:41 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/about/</guid>
+      <description>Contact Peter Kinget Bernard J. Lechner Professor of Electrical Engineering office:	CEPSR 1009 (Shapiro) email:	peter dot kinget AT columbia dot edu office:	+1-212-854-0309 fax:	+1-212-932-9421 mailing address:	Columbia University Dept. of Electrical Engineering 1300 S. W. Mudd Building 500 West 120th Street New York, NY 10027, U.S.A Dept. of Electrical Engineering
+Biography Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.</description>
     </item>
     
   </channel>
