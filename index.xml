@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 18:10:59 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 10:30:38 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UnderConstruction</title>
+      <link>https://peterkinget.github.io/pages/underconstruction/</link>
+      <pubDate>Sun, 16 Oct 2022 10:30:38 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/pages/underconstruction/</guid>
+      <description>The Writing part of the website is still under construction &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UnderConstruction</title>
+      <link>https://peterkinget.github.io/underconstruction/</link>
+      <pubDate>Sun, 16 Oct 2022 10:30:08 -0400</pubDate>
+      
+      <guid>https://peterkinget.github.io/underconstruction/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Why_analog</title>
       <link>https://peterkinget.github.io/why_analog/</link>
@@ -34,7 +52,7 @@ Analog links real-world senses like hearing, touching and seeing to the digital 
       <pubDate>Sat, 15 Oct 2022 18:18:32 -0400</pubDate>
       
       <guid>https://peterkinget.github.io/publications/</guid>
-      <description>Publications Books Book Chapters Journal Papers Conference Papers Tutorials Patents Books Peter Kinget and Michiel Steyaert, Analog VLSI integration of massive parallel signal processing systems, Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996. S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, Analog Circuit Design Techniques at 0.5V, Springer, ISBN 978-0-387-69953-0, 2007. R. Gharpurey, and P. Kinget, (Eds.), Ultra Wideband - Circuits, Transceivers and Systems, Springer, ISBN 978-0-387-37238-9, 2008. Book Chapters P.</description>
+      <description>Publications Publications are listed by type and in chronological order, so the most recent ones are at the end. Here are some short links to jump to various sections. Books Book Chapters Journal Papers Conference Papers Tutorials Patents Books Peter Kinget and Michiel Steyaert, Analog VLSI integration of massive parallel signal processing systems, Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996. S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, Analog Circuit Design Techniques at 0.</description>
     </item>
     
     <item>
@@ -47,15 +65,6 @@ Analog links real-world senses like hearing, touching and seeing to the digital 
     </item>
     
     <item>
-      <title>Another Page</title>
-      <link>https://peterkinget.github.io/pages/another-page/</link>
-      <pubDate>Sat, 15 Oct 2022 17:53:10 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/another-page/</guid>
-      <description>This is another page</description>
-    </item>
-    
-    <item>
       <title>My First Post</title>
       <link>https://peterkinget.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 15 Oct 2022 17:50:15 -0400</pubDate>
@@ -65,32 +74,12 @@ Analog links real-world senses like hearing, touching and seeing to the digital 
     </item>
     
     <item>
-      <title>Longer_bio2</title>
-      <link>https://peterkinget.github.io/pages/longer_bio2/</link>
-      <pubDate>Sun, 09 Oct 2022 14:15:14 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/longer_bio2/</guid>
-      <description>Long Bio Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.D. (Summa cum Laude with Congratulations of the Jury) in electrical engineering from the Katholieke Universiteit Leuven, Belgium, in 1990 and 1996, respectively.
-From 1991 to 1995, he received a graduate fellowship from the Belgian National Fund for Scientific Research (NFWO) to work as a Research Assistant at the ESAT-MICAS of the Katholieke Universiteit Leuven.</description>
-    </item>
-    
-    <item>
-      <title>Longer_bio</title>
-      <link>https://peterkinget.github.io/pages/longer_bio/</link>
-      <pubDate>Sun, 09 Oct 2022 13:55:38 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/longer_bio/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://peterkinget.github.io/about/</link>
       <pubDate>Thu, 06 Oct 2022 19:09:41 -0400</pubDate>
       
       <guid>https://peterkinget.github.io/about/</guid>
-      <description>Contact Peter Kinget Bernard J. Lechner Professor of Electrical Engineering office:	CEPSR 1009 (Shapiro) email:	peter dot kinget AT columbia dot edu office:	+1-212-854-0309 fax:	+1-212-932-9421 mailing address:	Columbia University Dept. of Electrical Engineering 1300 S. W. Mudd Building 500 West 120th Street New York, NY 10027, U.S.A Dept. of Electrical Engineering
-Biography Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.</description>
+      <description>Contact Peter Kinget Bernard J. Lechner Professor of Electrical Engineering office:	CEPSR 1009 (Shapiro) email:	peter dot kinget AT columbia dot edu office:	+1-212-854-0309 fax:	+1-212-932-9421 mailing address:	Columbia University Dept. of Electrical Engineering 1300 S. W. Mudd Building 500 West 120th Street New York, NY 10027, U.S.A Biography Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.D. (Summa cum Laude with Congratulations of the Jury) in electrical engineering from the Katholieke Universiteit Leuven, Belgium, in 1990 and 1996, respectively.</description>
     </item>
     
   </channel>

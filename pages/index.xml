@@ -7,33 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Peter Kinget</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 17:53:10 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 10:30:38 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Another Page</title>
-      <link>https://peterkinget.github.io/pages/another-page/</link>
-      <pubDate>Sat, 15 Oct 2022 17:53:10 -0400</pubDate>
+      <title>UnderConstruction</title>
+      <link>https://peterkinget.github.io/pages/underconstruction/</link>
+      <pubDate>Sun, 16 Oct 2022 10:30:38 -0400</pubDate>
       
-      <guid>https://peterkinget.github.io/pages/another-page/</guid>
-      <description>This is another page</description>
-    </item>
-    
-    <item>
-      <title>Longer_bio2</title>
-      <link>https://peterkinget.github.io/pages/longer_bio2/</link>
-      <pubDate>Sun, 09 Oct 2022 14:15:14 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/longer_bio2/</guid>
-      <description>Long Bio Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.D. (Summa cum Laude with Congratulations of the Jury) in electrical engineering from the Katholieke Universiteit Leuven, Belgium, in 1990 and 1996, respectively.
-From 1991 to 1995, he received a graduate fellowship from the Belgian National Fund for Scientific Research (NFWO) to work as a Research Assistant at the ESAT-MICAS of the Katholieke Universiteit Leuven.</description>
-    </item>
-    
-    <item>
-      <title>Longer_bio</title>
-      <link>https://peterkinget.github.io/pages/longer_bio/</link>
-      <pubDate>Sun, 09 Oct 2022 13:55:38 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/longer_bio/</guid>
-      <description> </description>
+      <guid>https://peterkinget.github.io/pages/underconstruction/</guid>
+      <description>The Writing part of the website is still under construction &amp;hellip;</description>
     </item>
     
   </channel>
