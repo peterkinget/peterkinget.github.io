@@ -1,0 +1,8 @@
+
+What's behind 'analog is everywhere'?
+
+    * The more designs go digital, the more analog performance and value are required in every design to enhance the user experience.
+    * New requirements for features in digital products are dictating the need for new and greater analog functionality.
+    * For signal paths, control paths, and power management, no company delivers greater analog performance and value than Analog Devices. 
+
+Digital designs, analog ICs and Analog Devices, everywhere.
