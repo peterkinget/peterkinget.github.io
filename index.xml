@@ -1,78 +1,519 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Peter Kinget</title>
+    <title>Peter R. Kinget</title>
     <link>https://peterkinget.github.io/</link>
-    <description>Recent content on Peter Kinget</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Peter Kinget</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 10:30:38 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>UnderConstruction</title>
-      <link>https://peterkinget.github.io/pages/underconstruction/</link>
-      <pubDate>Sun, 16 Oct 2022 10:30:38 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/underconstruction/</guid>
-      <description>The Writing part of the website is still under construction &amp;hellip;
-I am using HUGO to generate this website with the cactus theme.</description>
-    </item>
-    
-    <item>
-      <title>UnderConstruction</title>
-      <link>https://peterkinget.github.io/underconstruction/</link>
-      <pubDate>Sun, 16 Oct 2022 10:30:08 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/underconstruction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why_analog</title>
-      <link>https://peterkinget.github.io/why_analog/</link>
-      <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/why_analog/</guid>
-      <description>The (electronic) world is going Digital, why Analog? Note: If you have a suggestion for items or links to include in this list, do not hesitate to contact P. Kinget.
-&#34;The World is Analog&#34; [P. Kinget, Circuit Cellar #292, 11/2014] (pdf) &#34;Engineering the world through Analog&#34; (pdf) [H. Cozanian, TI E2E Community, Analog Wire Blog, 06/2013] Fun Facts:
-Analog links real-world senses like hearing, touching and seeing to the digital world A typical electronic design can have 15-20 analog chips for every embedded processor An estimated 96 billion analog ICs will be sold in 2013 &#34;</description>
-    </item>
-    
+    <description>Recent content on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 19:21:49 -0400</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
       <link>https://peterkinget.github.io/teaching/</link>
-      <pubDate>Sat, 15 Oct 2022 19:21:49 -0400</pubDate>
-      
+      <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
       <guid>https://peterkinget.github.io/teaching/</guid>
-      <description>Teaching Fall 2022: EE4312 Analog Electronic Circuits Spring 2022: EE6350 VLSI Design Lab Fall 2021: EE4312 Analog Electronic Circuits Spring 2021: EE9303 Seminar in Electronic Circuits: Advanced Topics in IC Design Fall 2020B: EE4312 Analog Electronic Circuits (Fall B section) Spring 2020: EE9303 Seminar in Electronic Circuits: Advanced Topics in IC Design Fall 2017 - Fall 2019: teaching exemption as department chair Fall 2016 - Spring 2017: On sabbatical Spring 2016: EE6350 VLSI Design Lab</description>
+      <description>&lt;h1 id=&#34;education-projects&#34;&gt;Education Projects&lt;/h1&gt;
+&lt;h2 id=&#34;vlsi-design-labhttpswwweecolumbiaedukingetvlsidesignlab&#34;&gt;&lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34; target=&#34;_blank&#34;&gt;VLSI Design Lab&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;!-- &lt;td  colspan=&#34;2&#34; align=&#34;center&#34;&gt;&lt;iframe align=&#34;middle&#34; width=&#34;420&#34; height=&#34;315&#34;
+			src=&#34;https://www.youtube.com/embed/H0-fBRIJ4Tg&#34;&gt; 
+  &lt;/iframe&gt; --&gt;
+&lt;td&gt;&lt;iframe align=&#34;middle&#34; width=&#34;420&#34; height=&#34;315&#34;
+			src=&#34;https://www.youtube.com/embed/H0-fBRIJ4Tg&#34;&gt; 
+&lt;/iframe&gt;
+&lt;/td&gt;
+&lt;td&gt;
+   &lt;a href=&#34;https://ieeexplore.ieee.org/document/10224621&#34;&gt;&lt;img height=&#34;315&#34;
+   src=&#34;images/SSCS_Magazine_summer_2023.png&#34; alt=&#34;SSCS Magazine Summer 2023&#34;&gt;&lt;/a&gt;
+   &lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;mosbiushttpsmosbiusorg&#34;&gt;&lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;MOSbius&lt;/a&gt;&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/MobiusChip_overview.png&#34;
+         alt=&#34;Overview of the MOSbius platform. Transistors and circuits on the MOSbius chip allow the student to create an electronic circuit that they can evaluate experimentally to learn to connect design, analyis, simulation and measurements.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Overview of the MOSbius platform. Transistors and circuits on the MOSbius chip allow the student to create an electronic circuit that they can evaluate experimentally to learn to connect design, analyis, simulation and measurements.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://peterkinget.github.io/publications/</link>
-      <pubDate>Sat, 15 Oct 2022 18:18:32 -0400</pubDate>
-      
+      <pubDate>Sat, 25 Jan 2025 18:18:32 -0400</pubDate>
       <guid>https://peterkinget.github.io/publications/</guid>
-      <description>Publications Publications are listed by type and in chronological order, so the most recent ones are at the end. Here are some short links to jump to various sections. Books Book Chapters Journal Papers Conference Papers Tutorials Patents Books Peter Kinget and Michiel Steyaert, Analog VLSI integration of massive parallel signal processing systems, Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996. S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, Analog Circuit Design Techniques at 0.</description>
+      <description>&lt;p&gt; Publications are listed by type and in chronological order, so the most
+recent ones are at the end. Here are some short links to jump to various
+sections.
+&lt;center&gt;
+&lt;p&gt;| &lt;a href=&#34;#books&#34;&gt;Books&lt;/a&gt; | &lt;a href=&#34;#book-chapters&#34;&gt;Book Chapters&lt;/a&gt; | &lt;a href=&#34;#phd-theses&#34;&gt;PhD Theses&lt;/a&gt; | &lt;a href=&#34;#journal-papers&#34;&gt;Journal Papers&lt;/a&gt; | &lt;a href=&#34;#conference-papers&#34;&gt;Conference Papers&lt;/a&gt; | &lt;a href=&#34;#tutorials&#34;&gt;Tutorials&lt;/a&gt; | &lt;a href=&#34;#patents&#34;&gt;Patents&lt;/a&gt; |&lt;/p&gt;
+&lt;/center&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+ &lt;li&gt; Peter Kinget and Michiel Steyaert, &lt;a
+href=&#34;http://www.amazon.com/exec/obidos/ASIN/0792398238/qid%3D1127428735/sr%3D11-1/ref%3Dsr%5F11%5F1/103-9364182-3895824&#34;&gt;Analog
+VLSI integration of massive parallel signal processing systems,&lt;/a&gt;
+Kluwer Academic Publishers, ISBN 0-7923-9823-8 November 1996.&lt;/li&gt;
+&lt;li&gt; S. Chatterjee, K.P. Pun, Y. Tsividis, and P. Kinget, &lt;a
+href=&#34;http://www.springer.com/west/home/generic/search/results?SGWID=4-40109-22-173717932-0&#34;&gt;Analog
+Circuit Design Techniques at 0.5V,&lt;/a&gt; Springer, ISBN
+978-0-387-69953-0, 2007. &lt;/li&gt;
+&lt;li&gt; R. Gharpurey, and P. Kinget, (Eds.), 
+&lt;a
+href=&#34;http://www.springer.com/west/home/generic/search/results?SGWID=4-40109-22-173671340-0&#34;&gt;Ultra
+Wideband - Circuits, Transceivers and Systems,&lt;/a&gt; Springer,
+ISBN 978-0-387-37238-9,
+2008.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-chapters&#34;&gt;Book Chapters&lt;/h2&gt;
+  &lt;ul&gt;
+ &lt;li&gt;  P. Kinget, M. Steyaert, and J. Van der Spiegel, &lt;a href=&#34;go_springer.html&#34;&gt;&#34;Full analog CMOS integration
+of very large time constants for synaptic transfer in neural networks,&#34;&lt;/a&gt; chapter
+in &#34;Analog VLSI Neural Networks&#34;, Y. Takefuji (Ed.), Kluwer Academic Publishers,
+ISBN 0792392736,  pp. 19-34, November 1992.&lt;/li&gt;
+  &lt;li&gt; M. Steyaert, M. Borremans, J. Craninckx, J. Crols, J. Janssens and
+ P. Kinget, &lt;a href=&#34;go_springer.html&#34;&gt;&#34;RF CMOS Design: Some Untold Pitfalls,&#34;&lt;/a&gt;  chapter in &#34;Analog Circuit
+Design: MOST RF circuits, Sigma-Delta Converters and Translinear Circuits&#34;,
+W. Sansen, J. Huijsing and R. van de Plassche (Eds.), Kluwer Academic Publishers,
+ISBN 0792397762, pp. 63-88, October 1996.&lt;/li&gt;
+  &lt;li&gt; P. Kinget and M. Steyaert, &lt;a href=&#34;go_springer.html&#34;&gt;&#34;Analog VLSI design
+constraints of programmable cellular neural networks,&#34;&lt;/a&gt; chapter in
+&#34;Cellular Neural Networks and Analog VLSI&#34;, L.O. Chua, G. Gulak,
+E. Pierzchula and A. Rodriguez-Vazquez (Eds.), Kluwer Academic
+Publishers, ISBN 0792381254, pp. 27-38, February 1998.&lt;/li&gt;
+&lt;li&gt; P. Kinget, &lt;a
+href=&#34;http://www.ee.columbia.edu/~kinget/papers_files/aacd99_book.pdf&#34;&gt;&#34;Integrated
+GHz voltage controlled oscillators,&#34;&lt;/a&gt; in Analog Circuit Design:
+(X)DSL and Other Communication Systems; RF MOST Models; Integrated
+Filters and Oscillators, W. Sansen, J.  Huijsing, and R. van de
+Plassche, Eds. Boston, MA: Kluwer, 1999, pp. 353-381. &lt;/li&gt;
+&lt;li&gt; P. Kinget, S. Chatterjee, and Y. Tsividis, &lt;a href=&#34;go_springer.html&#34;&gt;&#34;0.5 V Analog
+  Integrated Circuits,&#34;&lt;/a&gt; in Analog Circuit Design : RF Circuits: Wide
+  band, Front-Ends, DAC&#39;s, Design Methodology and Verification for RF
+  and Mixed-Signal Systems, Low Power and Low Voltage, 
+  Michiel Steyaert, Johan H. Huijsing, Arthur H.M. van  Roermund,
+  (Eds.), pp. 329-350, Springer, 2005.
+  &lt;/ul&gt;
+&lt;h2 id=&#34;phd-theses&#34;&gt;Ph.D. Theses&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;The PhD theses for recent alumni from the group are available at the &lt;a href=&#34;https://academiccommons.columbia.edu/search?f%5Bgenre_ssim%5D%5B%5D=Theses&amp;amp;q=kinget&amp;amp;search_field=all_fields&amp;amp;sort=Published&amp;#43;Latest&#34; target=&#34;_blank&#34;&gt;Columbia Academic Commons&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Biographies</title>
+      <link>https://peterkinget.github.io/biography/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/biography/</guid>
+      <description>&lt;p&gt;|  &lt;a href=&#34;#biography&#34;&gt;Biography&lt;/a&gt;    |      &lt;a href=&#34;#shorter-biography&#34;&gt;Shorter Biography&lt;/a&gt;   |      &lt;a href=&#34;#short-biography&#34;&gt;Short Biography&lt;/a&gt;
+  |   &lt;a href=&#34;#photos&#34;&gt;Photos&lt;/a&gt;  |&lt;/p&gt;
+&lt;h3 id=&#34;biography&#34;&gt;Biography&lt;/h3&gt;
+&lt;p&gt;Peter R. Kinget received the engineering degree (Summa cum Laude) in
+electrical and mechanical engineering and the Ph.D. (Summa cium Laude
+with Congratulations of the Jury) in electrical engineering from
+the &lt;a href=&#34;http://www.kuleuven.ac.be&#34; target=&#34;_blank&#34;&gt;Katholieke Universiteit
+Leuven&lt;/a&gt;, Belgium, in 1990 and 1996, respectively.&lt;/p&gt;
+&lt;p&gt;From 1991 to 1995, he received a graduate fellowship from the Belgian
+National Fund for Scientific Research (NFWO) to work as a Research
+Assistant at the &lt;a href=&#34;http://www.esat.kuleuven.ac.be/micas&#34; target=&#34;_blank&#34;&gt;ESAT-MICAS&lt;/a&gt; of
+the Katholieke Universiteit Leuven. From 1996 to 1999 he was at &lt;a href=&#34;http://www.bell-labs.com&#34; target=&#34;_blank&#34;&gt;Bell
+Laboratories&lt;/a&gt;, Lucent Technologies, in Murray
+Hill, NJ, as a Member of Technical Staff in the Design Principles
+Department.  From 1999 to 2002 he held various technical and management
+positions in IC design and development at
+&lt;a href=&#34;http://www.broadcom.com&#34; target=&#34;_blank&#34;&gt;Broadcom&lt;/a&gt;, CeLight and MultiLink. In 2002 he
+joined the faculty of the &lt;a href=&#34;http://www.ee.columbia.edu&#34; target=&#34;_blank&#34;&gt;Department of Electrical
+Engineering&lt;/a&gt;, &lt;a href=&#34;http://www.columbia.edu&#34; target=&#34;_blank&#34;&gt;Columbia
+University,&lt;/a&gt; N.Y., where he currently is the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Bernard_J._Lechner&#34; target=&#34;_blank&#34;&gt;Bernard J. Lechner&lt;/a&gt; Professor of Electrical Engineering.  From 2017-2020
+he served as Department Chair. He is also a consulting expert on patent
+litigation and a technical consultant to industry.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Contact</title>
-      <link>https://peterkinget.github.io/pages/contact/</link>
-      <pubDate>Thu, 06 Oct 2022 19:13:58 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/pages/contact/</guid>
-      <description>Contact Peter Kinget Bernard J. Lechner Professor of Electrical Engineering office:	CEPSR 1009 (Shapiro) email:	peter dot kinget AT dot columbia dot edu office:	+1-212-854-0309 fax:	+1-212-932-9421 mail address:	Columbia Universtiy Dept. of Electrical Engineering 1300 S. W. Mudd Building 500 West 120th Street New York, NY 10027, U.S.A office hours:	Wednesdays 2:30pm-3:30pm or by appt. </description>
+      <link>https://peterkinget.github.io/contact/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/contact/</guid>
+      <description>Contact Info</description>
     </item>
-    
     <item>
-      <title>About</title>
-      <link>https://peterkinget.github.io/about/</link>
-      <pubDate>Thu, 06 Oct 2022 19:09:41 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/about/</guid>
-      <description>Contact Peter Kinget Bernard J. Lechner Professor of Electrical Engineering office:	CEPSR 1009 (Shapiro) email:	peter dot kinget AT columbia dot edu office:	+1-212-854-0309 fax:	+1-212-932-9421 mailing address:	Columbia University Dept. of Electrical Engineering 1300 S. W. Mudd Building 500 West 120th Street New York, NY 10027, U.S.A Biography Peter R. Kinget received the engineering degree (Summa cum Laude) in electrical and mechanical engineering and the Ph.D. (Summa cum Laude with Congratulations of the Jury) in electrical engineering from the Katholieke Universiteit Leuven, Belgium, in 1990 and 1996, respectively.</description>
+      <title>New Website</title>
+      <link>https://peterkinget.github.io/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/20250125/</guid>
+      <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Office Hours</title>
+      <link>https://peterkinget.github.io/officehours/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/officehours/</guid>
+      <description>Office Hours</description>
+    </item>
+    <item>
+      <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
+      <link>https://peterkinget.github.io/posts/20241220/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/posts/20241220/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The 68-pin MOSbius chip contains nMOS and pMOS devices as individual transistors, and in typical configurations like current mirrors, differential pairs, common-source configuration, simple operational transconductance amplifiers or inverters. Circuits can be built with external wires and there is also a 65x10 on-chip digitally controlled switch matrix than can connect each of the 63 transistor-terminal pins and the VDD and VSS to 10 buses on the chip to build circuits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
+      <link>https://peterkinget.github.io/posts/20241223/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/posts/20241223/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We had another successful &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34;&gt;VLSI Design Lab&lt;/a&gt; offering at Columbia in 2024. Students designed custom chips from scratch in spring, taped them out to a commercial foundry in summer, tested them, and demonstrated them in fall in an application with their custom PCB: three PPG chips: a PPG with SpO2 measurement, a PPG with heart-rate and breathing-rate measurement, and a low-power PPG with lock-in amplification; an ECG chip including a 10-bit SAR ADC; an AM radio with upconversion to a 10.7MHz IF; a light-powered potentiostat; an ultra-low-power R-C sensor readout; an NPU accelerator for CNNs; and last but not least, a full RISC-V processor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starting with HUGO and Markdown</title>
+      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+These are random notes; they are not intended to be a structured
+tutorial but instead just serve as a notepad of things that were often
+hard or frustating to find out and are noted for future reference. &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+HUGO
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;still trying to understand the structure of the content directory … &lt;/li&gt;
+&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo server -D&lt;/code&gt; will start a web server on localhost so you can view
+your site while editing; very handy. &amp;#34;-D&amp;#34; includes the drafts … so
+if you have a discrepancy between the posted site and local site,
+check for draft labels in the headers of files&lt;/li&gt;
+&lt;li&gt;when the local server does not seem to include  your changes, then
+restart it; restarting it can give different results from itself
+detecting changes and updating the site; in particular with tags and
+categories.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo -d &amp;lt;destination_dir&amp;gt;&lt;/code&gt; creates the site into the destination
+directory; without &amp;#34;-d&amp;#34; it goes to the public subfolder in the site
+folder; you can then use github e.g., to sync the site to the hosting
+service. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;adding comments to posts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The (electronic) world is going Digital, why Analog?</title>
+      <link>https://peterkinget.github.io/why_analog/</link>
+      <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
+      <guid>https://peterkinget.github.io/why_analog/</guid>
+      <description>&lt;!-- &lt;h1&gt;The (electronic) world is going Digital, why Analog?&lt;/h1&gt; --&gt;
+&lt;ul&gt;  
+&lt;li&gt;&lt;u&gt;Note:&lt;/u&gt; The references are getting outdated, but the many of the points made are still valid. If you have a suggestion for items or links to include in this list, do not hesitate to contact &lt;a href=&#34;mailto:pk171+website@columbia.edu&#34;&gt;Peter Kinget&lt;/a&gt;.&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;
+&lt;table&gt;&lt;tr valign=&#34;top&#34;&gt; 
+&lt;td&gt;&lt;a href=&#34;https://cc-webshop.com/products/circuit-cellar-292-november-2014?_pos=1&amp;_sid=a0bae97c2&amp;_ss=r&#34;&gt;&lt;img src=&#34;WhyAnalog/circuit_cellar_november_2014.png&#34; width=300px&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&lt;a href=&#34;http://circuitcellar.com/tech-the-future/kinget-the-world-is-analog/&#34;&gt;&#34;The
+    World is
+    Analog&#34;&lt;/a&gt;&lt;/i&gt;&lt;/font&gt; 
+    &lt;br&gt;
+    [P. Kinget, &lt;a href=&#34;https://cc-webshop.com/products/circuit-cellar-292-november-2014?_pos=1&amp;_sid=a0bae97c2&amp;_ss=r&#34;&gt;Circuit
+    Cellar #292&lt;/a&gt;, 11/2014] (&lt;a href=&#34;WhyAnalog/circuitcellar_The_World_Is_Analog_201410.pdf&#34;&gt;pdf&lt;/a&gt;) &lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;
+&lt;!-- &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&lt;a href=&#34;http://e2e.ti.com/blogs_/b/analogwire/archive/2013/06/07/engineering-the-world-through-analog.aspx&#34;&gt;&#34;Engineering
+    the world through Analog&#34;&lt;/a&gt;&lt;/i&gt;&lt;/font&gt;
+    (&lt;a href=&#34;WhyAnalog/ti_e2e_engineering_the_world_through_Analog.pdf&#34;&gt;pdf&lt;/a&gt;)
+    [H. Cozanian, 
+    &lt;a href=&#34;http://e2e.ti.com/blogs_/b/analogwire/archive/2013/06/07/engineering-the-world-through-analog.aspx&#34;&gt;TI
+    E2E Community, Analog Wire Blog&lt;/a&gt;,
+    06/2013] &lt;br&gt; --&gt;
+&lt;table&gt;
+&lt;tr valign=&#34;top&#34;&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://e2e.ti.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-25/1157.hagop-2.jpg&#34;&gt;&lt;img src=&#34;WhyAnalog/ti_e2e_engineering_the_world_through_Analog.jpg&#34; width=300px&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&lt;a href=&#34;http://e2e.ti.com/blogs_/b/analogwire/archive/2013/06/07/engineering-the-world-through-analog.aspx&#34;&gt;&#34;Engineering
+    the world through Analog&#34;&lt;/a&gt;&lt;/i&gt;&lt;/font&gt;
+    (&lt;a href=&#34;WhyAnalog/ti_e2e_engineering_the_world_through_Analog.pdf&#34;&gt;pdf&lt;/a&gt;) &lt;br&gt;
+    [H. Cozanian, 
+    &lt;a href=&#34;http://e2e.ti.com/blogs_/b/analogwire/archive/2013/06/07/engineering-the-world-through-analog.aspx&#34;&gt;TI
+    E2E Community, Analog Wire Blog&lt;/a&gt;,
+    06/2013] &lt;br&gt;&lt;br&gt;
+Fun Facts:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Analog links real-world senses like hearing, touching and seeing to
+  the digital world&lt;/li&gt;
+&lt;li&gt;A typical electronic design can have 15-20 analog chips for every
+  embedded processor&lt;/li&gt;
+&lt;li&gt;An estimated 96 billion analog ICs will be sold in 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&lt;a href=&#34;http://engineering.columbia.edu/peter-kinget-connecting-bits-life&#34;&gt;&#34;Connecting
+    Bits to
+    Life&#34;&lt;/a&gt; &lt;/i&gt;&lt;/font&gt; (&lt;a href=&#34;images/kinget_connecting_bits_to_life_2011.pdf&#34;&gt;pdf&lt;/a&gt;)
+    [P. Kinget, Columbia Engineering, 10/2011]
+&lt;/li&gt;&lt;br&gt;
+&lt;!-- &lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&lt;a href=&#34;WhyAnalog/analog_and_RF_bring_the_bits_to_life.pdf&#34;&gt;&#34;Analog &amp; RF bring the bits to life!&#34;&lt;/a&gt; [P. Kinget]&lt;/i&gt;&lt;/font&gt; 
+&lt;/li&gt;&lt;br&gt;
+--&gt; 
+&lt;li&gt; &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&#34;CES should thank &#39;Analog&#39; -- and vice
+  versa&#34; &lt;/i&gt;&lt;/font&gt;&lt;a
+  href=&#34;WhyAnalog/CES_should_thank_analog_PlanetAnalog_jan_2006.pdf&#34;&gt;
+  [B. Schweber, PlanetAnalog, 01/2006] &lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;&lt;i&gt;To all this digital multimedia we should add, &#39;thank you,
+analog.&#39; If not for the multitude of analog and mixed-signal components
+that vendors have developed in the past decades, the digital media river
+would slow to a trickle. It takes countless A/D and D/A converters --
+audio, video, RF -- to make it possible. It also takes basic
+small-signal amplifiers, audio through RF power amplifiers, disk-drive
+read/write circuitry, motor controls, line drivers and receivers,
+power-supply components, touch-screen interfaces, display drivers,
+thermal sensors and fan controls, and much more, to make the digital
+world possible. &lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt; &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&#34;Immune from offshoring: DIGITAL CIRCUITS ARE ON OR OFF; `ANALOG
+DEALS WITH THE
+GRAY&#39;&#34;&lt;/i&gt;&lt;/font&gt;&lt;a
+href=&#34;WhyAnalog/poletti_immune_for_outsourcing_mercury_dec_2005.pdf&#34;&gt;
+[T. Poletti, Mercury News, 12/2005]&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;Globalization and the rise of a tech economy worldwide often lead to
+images of Silicon Valley engineers and software developers being
+outsourced or offshored. But the analog engineer, long in high demand,
+is enjoying even more of a heyday as the world goes digital. They&#39;re
+largely immune from offshoring.&lt;/i&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt; &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&#34;Secrets of the Universe - or - Look What Happened to Analog While
+Everyone Was Watching Digital,&#34; &lt;/i&gt;&lt;/font&gt;&lt;a href=&#34;http://a59.g.akamai.net/f/59/11888/1m/nsemiconduct.download.akamai.com/11888/mp/4000/10803/10808/14262/Lobby_noreg/default.htm&#34;&gt;[Halla,
+Electronics Manufacturing Summit, 04/2005] &lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;i&gt;&#34;...how analog technology is enabling the electronics industry to
+undergo fundamental change in the face of economic and technological
+challenges, the emergence of China, and the pursuit of new killer
+applications. Mr. Halla also addresses the increasing importance of
+Metcalfe&#39;s Law and the significance of personal technology and how it is
+displacing IT as the leading driver of semiconductor technology and
+manufacturing.&#34;&lt;/i&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt; &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&#34;Interesting fact: There is more analog in a digital handset than in
+  an analog
+  one.&#34; &lt;/i&gt;&lt;/font&gt;&lt;a href=&#34;WhyAnalog/commsdesign_nov_2005.pdf&#34;&gt;[R. Nass,
+  Commsdesign, 11/2005] &lt;/a&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;Ironically, these new requirements for features in digital cell
+phones are dictating the needs for new analog
+functions.&#34; &lt;/i&gt;&lt;/font&gt;&lt;a
+href=&#34;WhyAnalog/mobile_handset_oct_2005.pdf&#34;&gt;[D. Grant, &#34;Pinpoint the
+next big thing(s) in handsets&#34;, Mobile Handset Designline, 10/2005]&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;i&gt;&#34;Examples include the analog image processing required
+to interface a multi-megapixel camera sensor to the digital processor,
+the audio and video playback DACs and amplifiers, LCD backlight
+controls, motion sensors, and the power-management and
+battery-monitoring/charging functions needed to maximize battery life
+while powering all the new features.&#34;&lt;/i&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;Linear targets analog
+ shortage&#34; &lt;/i&gt;&lt;/font&gt;&lt;a
+ href=&#34;WhyAnalog/linear_targets_analog_shortage_electronic_news_oct_2005.pdf&#34;&gt;[Electronic
+ News 10/2005] &lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;&#34;Most companies believe it takes a decade or more of experience to
+create strong analog expertise, making those engineers highly valued for
+a variety of tasks. And with analog becoming increasingly important as
+an interface to the digital world, those engineers are increasingly in
+short supply&#34;&lt;/i&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt; &lt;font size=&#34;+2&#34;&gt;
+&lt;i&gt;&#34;It&#39;s a wiggly world out there. Analogue technology remains as
+  important as
+  ever.&#34; &lt;/i&gt;&lt;/font&gt;&lt;a
+  href=&#34;WhyAnalog/new_electronics_sep_2005.pdf&#34;&gt;[Editorial, New
+  Electronics, 09/2005] &lt;/a&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;i&gt;It&#39;s an interesting statistic that tells us that analogue ics
+hold the same market share today as they did in the early 1970s --
+around 20%.&lt;/li&gt;
+&lt;li&gt; &lt;i&gt;&#34;What the figures show is that analogue design remains as
+important a part of the electronics world as it ever has and should be
+treated accordingly.&#34;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&lt;a href=&#34;http://www.analog.com/everywhere&#34;&gt;Analog is
+      Everywhere&lt;/a&gt;&lt;/i&gt;&lt;/font&gt; 
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&lt;a href=&#34;http://www.cadence.com/amplified/&#34;&gt;Share your Analog Pride&lt;/a&gt;&lt;/i&gt;&lt;/font&gt; 
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;It&#39;s an Analog World. How Analog Engineers bring Digital
+  Designs to
+  Life.&#34; &lt;/i&gt;&lt;/font&gt;&lt;a href=&#34;WhyAnalog/analog_world_2005.pdf&#34;&gt;[Analog
+  Devices whitepaper 2005] &lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;&#34;The more designs go digital, the more analog performance and value
+  are required in every design to enhance the user experience.&#34;&lt;/i&gt;
+&lt;li&gt;&lt;i&gt;&#34;New requirements for features in digital products are dictating
+the need for new and greater analog functionality.&#34;&lt;/i&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;Design in an analog
+ world&#34; &lt;/i&gt;&lt;/font&gt;&lt;a
+ href=&#34;WhyAnalog/design_in_analog_world_EDN_nov_2004.pdf&#34;&gt;[EDN 11/2004] &lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;&#34;Analog-design talent has become harder to find and more expensive to
+develop at the same time that digital products and processes have hit
+constraints due to fundamental analog effects. ... the demands on analog
+design have actually grown with the advancement of digital
+technologies.&#34;&lt;/i&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt;
+&lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;Where the jobs
+ are&#34; &lt;/i&gt;&lt;/font&gt;&lt;a href=&#34;WhyAnalog/ieee_jan03_jobs.pdf&#34;&gt;[IEEE Spectrum
+ 01/2003] &lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;&#34;One of the most sustained demands for EEs is in analog and
+mixed-signal design. Analog? Isn&#39;t that obsolete? The fact is, the more
+computerized the world becomes, the greater the need for interfaces
+between the analog and digital: cellphones need to convert voices to
+digital pulses and vice versa, video cameras need to change images into
+bytes, while monitors reverse the transaction.  &#34;&lt;/i&gt;
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt; 
+&lt;!-- &lt;li&gt;&lt;font size=&#34;+2&#34;&gt;
+ &lt;i&gt;&#34;&#34; &lt;/i&gt;&lt;/font&gt;&lt;a href=&#34;WhyAnalog/.pdf&#34;&gt;[] &lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;i&gt;&#34;&#34;&lt;/i&gt;
+
+&lt;/ul&gt;
+&lt;/li&gt;&lt;br&gt; --&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>PCB Design</title>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+PCB Tools
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Easy EDA &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Longyi&lt;/li&gt;
+&lt;li&gt;online tool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DipTrace&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Matt&lt;/li&gt;
+&lt;li&gt;we used to have some licenses in the lab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KiCAD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;open source&lt;/li&gt;
+&lt;li&gt;recommended/supported by CERN&lt;/li&gt;
+&lt;li&gt;experience has been varied; seems to work better on PC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Altium&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;student licenses available&lt;/li&gt;
+&lt;li&gt;seems to be preferred by many&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+PCB Fabrication
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Advanced Circuits&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;good quality but more expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PCBWay&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OK quality (for 6350 in 2022) but less expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OSHPark&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JLC&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your Inner Hedgehog</title>
+      <link>https://peterkinget.github.io/papers/paper3/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/papers/paper3/</guid>
+      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+    </item>
+    <item>
+      <title>Unusual Uses For Olive Oil</title>
+      <link>https://peterkinget.github.io/papers/paper1/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/papers/paper1/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+    </item>
+    <item>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>https://peterkinget.github.io/papers/paper2/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>https://peterkinget.github.io/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
   </channel>
 </rss>

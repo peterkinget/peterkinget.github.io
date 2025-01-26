@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pcb on Peter R. Kinget</title>
+    <link>https://peterkinget.github.io/tags/pcb/</link>
+    <description>Recent content in Pcb on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PCB Design</title>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+PCB Tools
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Easy EDA &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Longyi&lt;/li&gt;
+&lt;li&gt;online tool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DipTrace&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Matt&lt;/li&gt;
+&lt;li&gt;we used to have some licenses in the lab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KiCAD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;open source&lt;/li&gt;
+&lt;li&gt;recommended/supported by CERN&lt;/li&gt;
+&lt;li&gt;experience has been varied; seems to work better on PC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Altium&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;student licenses available&lt;/li&gt;
+&lt;li&gt;seems to be preferred by many&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+PCB Fabrication
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Advanced Circuits&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;good quality but more expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PCBWay&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OK quality (for 6350 in 2022) but less expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OSHPark&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JLC&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,30 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Peter Kinget</title>
+    <title>Posts on Peter R. Kinget</title>
     <link>https://peterkinget.github.io/posts/</link>
-    <description>Recent content in Posts on Peter Kinget</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Peter Kinget</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 18:10:59 -0400</lastBuildDate><atom:link href="https://peterkinget.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Posts on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022 08 01 Test</title>
-      <link>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</link>
-      <pubDate>Sat, 15 Oct 2022 18:10:59 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/posts/opinions/2022-08-01-test/</guid>
-      <description></description>
+      <title>New Website</title>
+      <link>https://peterkinget.github.io/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/20250125/</guid>
+      <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>My First Post</title>
-      <link>https://peterkinget.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Oct 2022 17:50:15 -0400</pubDate>
-      
-      <guid>https://peterkinget.github.io/posts/my-first-post/</guid>
-      <description>this is my first post ..</description>
+      <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
+      <link>https://peterkinget.github.io/posts/20241220/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/posts/20241220/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The 68-pin MOSbius chip contains nMOS and pMOS devices as individual transistors, and in typical configurations like current mirrors, differential pairs, common-source configuration, simple operational transconductance amplifiers or inverters. Circuits can be built with external wires and there is also a 65x10 on-chip digitally controlled switch matrix than can connect each of the 63 transistor-terminal pins and the VDD and VSS to 10 buses on the chip to build circuits.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
+      <link>https://peterkinget.github.io/posts/20241223/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/posts/20241223/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We had another successful &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34;&gt;VLSI Design Lab&lt;/a&gt; offering at Columbia in 2024. Students designed custom chips from scratch in spring, taped them out to a commercial foundry in summer, tested them, and demonstrated them in fall in an application with their custom PCB: three PPG chips: a PPG with SpO2 measurement, a PPG with heart-rate and breathing-rate measurement, and a low-power PPG with lock-in amplification; an ECG chip including a 10-bit SAR ADC; an AM radio with upconversion to a 10.7MHz IF; a light-powered potentiostat; an ultra-low-power R-C sensor readout; an NPU accelerator for CNNs; and last but not least, a full RISC-V processor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starting with HUGO and Markdown</title>
+      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+These are random notes; they are not intended to be a structured
+tutorial but instead just serve as a notepad of things that were often
+hard or frustating to find out and are noted for future reference. &lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+HUGO
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;still trying to understand the structure of the content directory … &lt;/li&gt;
+&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo server -D&lt;/code&gt; will start a web server on localhost so you can view
+your site while editing; very handy. &amp;#34;-D&amp;#34; includes the drafts … so
+if you have a discrepancy between the posted site and local site,
+check for draft labels in the headers of files&lt;/li&gt;
+&lt;li&gt;when the local server does not seem to include  your changes, then
+restart it; restarting it can give different results from itself
+detecting changes and updating the site; in particular with tags and
+categories.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo -d &amp;lt;destination_dir&amp;gt;&lt;/code&gt; creates the site into the destination
+directory; without &amp;#34;-d&amp;#34; it goes to the public subfolder in the site
+folder; you can then use github e.g., to sync the site to the hosting
+service. &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;adding comments to posts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PCB Design</title>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+PCB Tools
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Easy EDA &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Longyi&lt;/li&gt;
+&lt;li&gt;online tool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DipTrace&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recommended by Matt&lt;/li&gt;
+&lt;li&gt;we used to have some licenses in the lab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KiCAD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;open source&lt;/li&gt;
+&lt;li&gt;recommended/supported by CERN&lt;/li&gt;
+&lt;li&gt;experience has been varied; seems to work better on PC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Altium&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;student licenses available&lt;/li&gt;
+&lt;li&gt;seems to be preferred by many&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+PCB Fabrication
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Advanced Circuits&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;good quality but more expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PCBWay&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OK quality (for 6350 in 2022) but less expensive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;OSHPark&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JLC&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

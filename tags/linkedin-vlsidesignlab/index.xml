@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LinkedIn, VlsiDesignLab on Peter R. Kinget</title>
+    <link>https://peterkinget.github.io/tags/linkedin-vlsidesignlab/</link>
+    <description>Recent content in LinkedIn, VlsiDesignLab on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2024 11:58:27 -0400</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/tags/linkedin-vlsidesignlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
+      <link>https://peterkinget.github.io/posts/20241223/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/posts/20241223/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We had another successful &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34;&gt;VLSI Design Lab&lt;/a&gt; offering at Columbia in 2024. Students designed custom chips from scratch in spring, taped them out to a commercial foundry in summer, tested them, and demonstrated them in fall in an application with their custom PCB: three PPG chips: a PPG with SpO2 measurement, a PPG with heart-rate and breathing-rate measurement, and a low-power PPG with lock-in amplification; an ECG chip including a 10-bit SAR ADC; an AM radio with upconversion to a 10.7MHz IF; a light-powered potentiostat; an ultra-low-power R-C sensor readout; an NPU accelerator for CNNs; and last but not least, a full RISC-V processor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

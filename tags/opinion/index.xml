@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opinion on Peter R. Kinget</title>
+    <link>http://localhost:1313/hugo-website/tags/opinion/</link>
+    <description>Recent content in Opinion on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 11:58:27 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Under Construction</title>
+      <link>http://localhost:1313/hugo-website/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 11:58:27 -0400</pubDate>
+      <guid>http://localhost:1313/hugo-website/posts/20250125/</guid>
+      <description>&lt;p&gt; UNDER CONSTRUCTION --
+&lt;br&gt;
+&lt;p&gt; IGNORE this section of the website PLEASE ...</description>
+    </item>
+  </channel>
+</rss>
