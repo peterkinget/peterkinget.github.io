@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/tags/hugo/</link>
+    <link>aseURL/tags/hugo/</link>
     <description>Recent content in Hugo on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="aseURL/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting with HUGO and Markdown</title>
-      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
+      <link>aseURL/posts/hugo_and_markdown/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
+      <guid>aseURL/posts/hugo_and_markdown/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;

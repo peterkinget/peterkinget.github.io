@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/</link>
+    <link>aseURL/</link>
     <description>Recent content on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2025 19:21:49 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="aseURL/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
-      <link>https://peterkinget.github.io/teaching/</link>
+      <link>aseURL/teaching/</link>
       <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
-      <guid>https://peterkinget.github.io/teaching/</guid>
+      <guid>aseURL/teaching/</guid>
       <description>&lt;h1 id=&#34;education-projects&#34;&gt;Education Projects&lt;/h1&gt;
 &lt;h2 id=&#34;vlsi-design-labhttpswwweecolumbiaedukingetvlsidesignlab&#34;&gt;&lt;a href=&#34;https://www.ee.columbia.edu/~kinget/vlsidesignlab&#34; target=&#34;_blank&#34;&gt;VLSI Design Lab&lt;/a&gt;&lt;/h2&gt;
 &lt;table&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title>Publications</title>
-      <link>https://peterkinget.github.io/publications/</link>
+      <link>aseURL/publications/</link>
       <pubDate>Sat, 25 Jan 2025 18:18:32 -0400</pubDate>
-      <guid>https://peterkinget.github.io/publications/</guid>
+      <guid>aseURL/publications/</guid>
       <description>&lt;p&gt; Publications are listed by type and in chronological order, so the most
 recent ones are at the end. Here are some short links to jump to various
 sections.
@@ -98,9 +98,9 @@ Plassche, Eds. Boston, MA: Kluwer, 1999, pp. 353-381. &lt;/li&gt;
     </item>
     <item>
       <title>Biographies</title>
-      <link>https://peterkinget.github.io/biography/</link>
+      <link>aseURL/biography/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/biography/</guid>
+      <guid>aseURL/biography/</guid>
       <description>&lt;p&gt;|  &lt;a href=&#34;#biography&#34;&gt;Biography&lt;/a&gt;    |      &lt;a href=&#34;#shorter-biography&#34;&gt;Shorter Biography&lt;/a&gt;   |      &lt;a href=&#34;#short-biography&#34;&gt;Short Biography&lt;/a&gt;
   |   &lt;a href=&#34;#photos&#34;&gt;Photos&lt;/a&gt;  |&lt;/p&gt;
 &lt;h3 id=&#34;biography&#34;&gt;Biography&lt;/h3&gt;
@@ -127,30 +127,30 @@ litigation and a technical consultant to industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://peterkinget.github.io/contact/</link>
+      <link>aseURL/contact/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/contact/</guid>
+      <guid>aseURL/contact/</guid>
       <description>Contact Info</description>
     </item>
     <item>
       <title>New Website</title>
-      <link>https://peterkinget.github.io/posts/20250125/</link>
+      <link>aseURL/posts/20250125/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/posts/20250125/</guid>
+      <guid>aseURL/posts/20250125/</guid>
       <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://peterkinget.github.io/officehours/</link>
+      <link>aseURL/officehours/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/officehours/</guid>
+      <guid>aseURL/officehours/</guid>
       <description>Office Hours</description>
     </item>
     <item>
       <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
-      <link>https://peterkinget.github.io/posts/20241220/</link>
+      <link>aseURL/posts/20241220/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/posts/20241220/</guid>
+      <guid>aseURL/posts/20241220/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
@@ -158,9 +158,9 @@ litigation and a technical consultant to industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
-      <link>https://peterkinget.github.io/posts/20241223/</link>
+      <link>aseURL/posts/20241223/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/posts/20241223/</guid>
+      <guid>aseURL/posts/20241223/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
@@ -168,9 +168,9 @@ litigation and a technical consultant to industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting with HUGO and Markdown</title>
-      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
+      <link>aseURL/posts/hugo_and_markdown/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
+      <guid>aseURL/posts/hugo_and_markdown/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -201,9 +201,9 @@ service. &lt;/li&gt;
     </item>
     <item>
       <title>The (electronic) world is going Digital, why Analog?</title>
-      <link>https://peterkinget.github.io/why_analog/</link>
+      <link>aseURL/why_analog/</link>
       <pubDate>Sat, 15 Oct 2022 19:51:10 -0400</pubDate>
-      <guid>https://peterkinget.github.io/why_analog/</guid>
+      <guid>aseURL/why_analog/</guid>
       <description>&lt;!-- &lt;h1&gt;The (electronic) world is going Digital, why Analog?&lt;/h1&gt; --&gt;
 &lt;ul&gt;  
 &lt;li&gt;&lt;u&gt;Note:&lt;/u&gt; The references are getting outdated, but the many of the points made are still valid. If you have a suggestion for items or links to include in this list, do not hesitate to contact &lt;a href=&#34;mailto:pk171+website@columbia.edu&#34;&gt;Peter Kinget&lt;/a&gt;.&lt;/li&gt;&lt;br&gt;
@@ -422,9 +422,9 @@ bytes, while monitors reverse the transaction.  &#34;&lt;/i&gt;
     </item>
     <item>
       <title>PCB Design</title>
-      <link>https://peterkinget.github.io/posts/pcb_design/</link>
+      <link>aseURL/posts/pcb_design/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
+      <guid>aseURL/posts/pcb_design/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
@@ -489,30 +489,30 @@ PCB Fabrication
     </item>
     <item>
       <title>Your Inner Hedgehog</title>
-      <link>https://peterkinget.github.io/papers/paper3/</link>
+      <link>aseURL/papers/paper3/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/papers/paper3/</guid>
+      <guid>aseURL/papers/paper3/</guid>
       <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>https://peterkinget.github.io/papers/paper1/</link>
+      <link>aseURL/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/papers/paper1/</guid>
+      <guid>aseURL/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
-      <link>https://peterkinget.github.io/papers/paper2/</link>
+      <link>aseURL/papers/paper2/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/papers/paper2/</guid>
+      <guid>aseURL/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://peterkinget.github.io/books/book1/</link>
+      <link>aseURL/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/books/book1/</guid>
+      <guid>aseURL/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
   </channel>
