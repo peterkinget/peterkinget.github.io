@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Peter R. Kinget</title>
-    <link>aseURL/posts/</link>
+    <link>https://peterkinget.github.io/posts/</link>
     <description>Recent content in Posts on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="aseURL/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterkinget.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website</title>
-      <link>aseURL/posts/20250125/</link>
+      <link>https://peterkinget.github.io/posts/20250125/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>aseURL/posts/20250125/</guid>
+      <guid>https://peterkinget.github.io/posts/20250125/</guid>
       <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages. I plan to write up a HowTo post in the near future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
-      <link>aseURL/posts/20241220/</link>
+      <link>https://peterkinget.github.io/posts/20241220/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>aseURL/posts/20241220/</guid>
+      <guid>https://peterkinget.github.io/posts/20241220/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>Spring 2024 VLSI Design Lab Chips Are Working!</title>
-      <link>aseURL/posts/20241223/</link>
+      <link>https://peterkinget.github.io/posts/20241223/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>aseURL/posts/20241223/</guid>
+      <guid>https://peterkinget.github.io/posts/20241223/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;EE6350_S24_group.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Chips are working! Well-deserved kudos to the “VLSI Design Lab” (t/o course) students who measured their chips and demonstrated them in an application. Take a look at &lt;a href=&#34;https://www.ee.columbia.edu/~kinget/EE6350_S24&#34; target=&#34;_blank&#34;&gt;their websites and videos&lt;/a&gt;.&lt;/p&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title>Starting with HUGO and Markdown</title>
-      <link>aseURL/posts/hugo_and_markdown/</link>
+      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>aseURL/posts/hugo_and_markdown/</guid>
+      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -70,9 +70,9 @@ service. &lt;/li&gt;
     </item>
     <item>
       <title>PCB Design</title>
-      <link>aseURL/posts/pcb_design/</link>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>aseURL/posts/pcb_design/</guid>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;

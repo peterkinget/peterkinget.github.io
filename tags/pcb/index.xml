@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pcb on Peter R. Kinget</title>
-    <link>aseURL/tags/pcb/</link>
+    <link>https://peterkinget.github.io/tags/pcb/</link>
     <description>Recent content in Pcb on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="aseURL/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peterkinget.github.io/tags/pcb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PCB Design</title>
-      <link>aseURL/posts/pcb_design/</link>
+      <link>https://peterkinget.github.io/posts/pcb_design/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>aseURL/posts/pcb_design/</guid>
+      <guid>https://peterkinget.github.io/posts/pcb_design/</guid>
       <description>&lt;p&gt;
 &lt;strong&gt;&lt;strong&gt;This is very incomplete and needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
