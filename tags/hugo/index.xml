@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hugo on Peter R. Kinget</title>
+    <title>HUGO on Peter R. Kinget</title>
     <link>https://peterkinget.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Peter R. Kinget</description>
+    <description>Recent content in HUGO on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://peterkinget.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Starting with HUGO and Markdown</title>
-      <link>https://peterkinget.github.io/posts/hugo_and_markdown/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://peterkinget.github.io/posts/hugo_and_markdown/</guid>
-      <description>&lt;p&gt;
-&lt;strong&gt;&lt;strong&gt;This needs updating!!&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-These are random notes; they are not intended to be a structured
-tutorial but instead just serve as a notepad of things that were often
-hard or frustating to find out and are noted for future reference. &lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-HUGO
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;still trying to understand the structure of the content directory … &lt;/li&gt;
-&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo server -D&lt;/code&gt; will start a web server on localhost so you can view
-your site while editing; very handy. &amp;#34;-D&amp;#34; includes the drafts … so
-if you have a discrepancy between the posted site and local site,
-check for draft labels in the headers of files&lt;/li&gt;
-&lt;li&gt;when the local server does not seem to include  your changes, then
-restart it; restarting it can give different results from itself
-detecting changes and updating the site; in particular with tags and
-categories.&lt;/li&gt;
-&lt;li&gt;&lt;code class=&#34;verbatim&#34;&gt;hugo -d &amp;lt;destination_dir&amp;gt;&lt;/code&gt; creates the site into the destination
-directory; without &amp;#34;-d&amp;#34; it goes to the public subfolder in the site
-folder; you can then use github e.g., to sync the site to the hosting
-service. &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;adding comments to posts&lt;/p&gt;</description>
+      <title>New Website Built with Hugo and GitHub Pages</title>
+      <link>https://peterkinget.github.io/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/20250125/</guid>
+      <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.&lt;/p&gt;
+&lt;h1 id=&#34;how-did-i-build-this-website&#34;&gt;How did I build this website?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

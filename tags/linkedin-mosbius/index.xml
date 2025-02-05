@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LinkedIn, MOSbius on Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/tags/linkedin-mosbius/</link>
+    <link>http://localhost:1313/hugo-website/tags/linkedin-mosbius/</link>
     <description>Recent content in LinkedIn, MOSbius on Peter R. Kinget</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Dec 2024 11:58:27 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/tags/linkedin-mosbius/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-website/tags/linkedin-mosbius/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
-      <link>https://peterkinget.github.io/posts/20241220/</link>
+      <link>http://localhost:1313/hugo-website/posts/20241220/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/posts/20241220/</guid>
+      <guid>http://localhost:1313/hugo-website/posts/20241220/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;

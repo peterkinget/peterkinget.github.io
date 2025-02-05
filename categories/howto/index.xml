@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Howto on Peter R. Kinget</title>
+    <link>https://peterkinget.github.io/categories/howto/</link>
+    <description>Recent content in Howto on Peter R. Kinget</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Website Built with Hugo and GitHub Pages</title>
+      <link>https://peterkinget.github.io/posts/20250125/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/20250125/</guid>
+      <description>&lt;p&gt;Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.&lt;/p&gt;
+&lt;h1 id=&#34;how-did-i-build-this-website&#34;&gt;How did I build this website?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

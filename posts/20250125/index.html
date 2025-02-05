@@ -12,7 +12,7 @@ How did I build this website?
 NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.">
 <meta name="author" content="Peter R. Kinget">
 <link rel="canonical" href="https://peterkinget.github.io/posts/20250125/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.e690afcd5c523330d5c8b4d746eb158361600a015e99518d4d246a6ccab0cc19.css" integrity="sha256-5pCvzVxSMzDVyLTXRusVg2FgCgFemVGNTSRqbMqwzBk=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d5a66b4120538d94b8bde20fa16823827bfaddf490ae23b958bb596bc2f702f9.css" integrity="sha256-1aZrQSBTjZS4veIPoWgjgnv63fSQriO5WLtZa8L3Avk=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://peterkinget.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://peterkinget.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://peterkinget.github.io/favicon-32x32.png">
@@ -72,7 +72,7 @@ NOTE: I am not trying to write a full tutorial, there are (too) many already out
   "name": "New Website Built with Hugo and GitHub Pages",
   "description": "Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\n",
   "keywords": [
-    "HUGO, websites"
+    "HUGO", "websites"
   ],
   "articleBody": "Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\nHUGO I am using Hugo since it’s actively being developed, has various themes, and builds a static website from source files on your computer. You do not get locked into a hosting service’s proprietary publishing software or templates.\nI further prefer the command-line nature of building the site with the hugo command and the publication of the site also happens from the commandline with git. I edit the ‘source’ files (.md, .yml, .html, …) with vscode but you can use anything else.\nTemplate First, I googled site:edu “powered by Hugo” to see what templates academics are using. The ones that I liked were ‘PaperMod’, ‘Hugo Cards’, and ‘Hugo Coder’ for a personal profile site; ‘Docks’ and ‘Academic Theme` are probably more suited for a research group site.\nI settled for PaperMod and more specifically used the modified version by Pascal Michaillet; he provides a template website, that I downloaded through a zip file1 and unzipped on my computer. The template already has the correct hugo folders, includes a config.yml and includes the theme files, so it is very easy to get started. From here on, it was mostly editing the existing files and adding my own materials.\nConfiguring the Site config.yml is the key file you need to customize from the template to make the site your own.\nbaseURL is important; it is the base URL for where you will be publishing the site; it needs to end with a /. menu is for the menu in the upper right corner of the pages params: –\u003e profileMode: –\u003e enabled: true is what makes the root page a picture with some text and buttons. params: –\u003e socialIcons: show up on the profile page. Building Pages You need to get familiar with Markdown since that is the easiest way to write new content for Hugo. You can also have html files and even org files I believe.\nWhen you want to create a page, you have to put a file in the contents folder. E.g. if you make a file first_page.md in contents, then when you run hugo build you will get a file /first_page/index.html generated in the build folder (typically public or docs), which can be accessed as /first_page once you post the site.\nThe .md files need to have the right heading to get processed by hugo:\n--- title: \"First Page\" date: 2025-01-25 description: \"First Page\" --- There are hugo commands to create new contents like hugo new\nStatic material goes into the static folder under the correct subfolder; so, e.g., images for the first_page.md can be put in static/first_page/img/first_image.png and can then be added to first_page.md with ![](img/first_image.png)\nI had an older website and at this point have in many cases brought over the html files and converted them in md files with the right header, but still the html inside; see e.g. Publications\nSome Tips hugo server is very handy to view your webpages in a browser as you are writing them; some times the changes ‘do not take’, so you have to exit it and restart it.\nThe links to other pages or static material are sometimes a bit hard to figure out, but hugo server can be quite helpful with that.\nTwo ways of putting a figure in an .md file:\n![](../images/photo_1996.gif) is standard markdown, \\{\\{\u003c figure src=\\\"../images/photo_jan_2011.png\\\" height=\\\"200px\\\"\u003e\\}\\} is a hugo directive that allows you to control the size of the figure; the \\ do not need to be included, I needed them here to avoid errors for this page. You can have links to headers in md pages; the link on top will point to the header below:\n| [Books](#books) | ## Books - A first book to read GitHub Pages I am using GitHub pages to host this site at https://peterkinget.github.io (so this my baseURL with an extra / at the end).\nYou need to be familiar with GitHub repositories to understand the notes below.\nRepositories I have a public repository peterkinget.github.io as GitHub recommends. I am only publishing the final site there though, not the original, full hugo site.\nI have a separate ‘source’ repository hugo-site that I use to sync the full hugo folder on my computer. That folder gets published also as https://peterkinget.github.io/hugo-site/ (again, make sure the baseURL is correct in config.yml). I find it useful to keep things separate and can verify updates before posting them on my actual site.\nPublishing a repository In Github go to your repository –\u003e Settings –\u003e Pages –\u003e ‘Deploy from a branch’ –\u003e main \u0026 /docs. If all goes right, GitHub puts the URL on the top of this settings page, but you might have to wait a bit.\nCheck the ‘Actions’ tab for the repository to see if the publishing was successful.\nYou need to instruct hugo to build in the /docs folder by having publishDir: docs near the top of your config.yml since GitHub can only serve your site from a /docs folder.\nSince my base URL is set to https://peterkinget.github.io/hugo-site/ in my ‘source’ hugo-site repo, I have to tell hugo to build the site with a different baseURL when I am ready to upload it to the peterkinget.github.io repo using hugo build --baseURL \"https:///\"; then clear ( with rm) the peterkinget.github.io folder on my computer and mv the files from hugo-site/docs into the peterkinget.github.io/ folder, followed by the git commands to add, commit, and push that folder to the repository.\nSome Tips When you update your repository on GitHub, it will start processing the files right away. To see the progress and any possible issues look at Actions for your repository.\nIf you decide to start a hugo site from scratch (and not from a template site like above), then you will likely install the ’theme’ using git. Make sure to add it as a submodule, since you will sync your overall folder to your own repository. You will need to use something like git submodule add and not git clone, otherwise GitHub will later have trouble publishing your site (see Actions mentioned above).\nYou can use GitHub workflows to make the hugo site from the repository, but I have not tried that yet. Here is a link I am saving for possible future use.\nTO-DO Understand the ‘posts’ and ‘posting’ better, including tags and categories. Add commenting to posts using utterances. By using zip instead of git clone it’s easier to then later connect the folder to your own GitHub repository. ↩︎\n",
   "wordCount" : "1169",
@@ -133,10 +133,10 @@ NOTE: I am not trying to write a full tutorial, there are (too) many already out
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://peterkinget.github.io/" accesskey="h" title="Home">
-                <img src="https://peterkinget.github.io/images/favicon.ico" alt="" aria-label="logo"
-                    height="18"
-                    width="18">Home</a>
+            <a href="https://peterkinget.github.io/" accesskey="h" title="Peter Kinget">
+                <img src="https://peterkinget.github.io/images/old_favicon.ico" alt="" aria-label="logo"
+                    height="22"
+                    width="22">Peter Kinget</a>
             <div class="logo-switches">
             </div>
         </div>
@@ -178,8 +178,13 @@ NOTE: I am not trying to write a full tutorial, there are (too) many already out
                 </a>
             </li>
             <li>
-                <a href="https://peterkinget.github.io/posts" title="Posts">
+                <a href="https://peterkinget.github.io/posts/" title="Posts">
                     <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://peterkinget.github.io/tags/" title="Tags">
+                    <span>Tags</span>
                 </a>
             </li>
         </ul>
@@ -194,7 +199,7 @@ NOTE: I am not trying to write a full tutorial, there are (too) many already out
     <h1 class="post-title entry-hint-parent">
       New Website Built with Hugo and GitHub Pages
     </h1>
-    <div class="post-meta"><span title='2025-01-25 00:00:00 +0000 UTC'>January 2025</span>&nbsp;&middot;&nbsp;Peter R. Kinget
+    <div class="post-meta"><span title='2025-01-25 00:00:00 +0000 UTC'>January 2025</span>&nbsp;&middot;&nbsp;6 min&nbsp;&middot;&nbsp;Peter R. Kinget
 
 </div>
   </header> 
@@ -323,7 +328,8 @@ NOTE: I am not trying to write a full tutorial, there are (too) many already out
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://peterkinget.github.io/tags/hugo-websites/">HUGO, Websites</a></li>
+      <li><a href="https://peterkinget.github.io/tags/hugo/">HUGO</a></li>
+      <li><a href="https://peterkinget.github.io/tags/websites/">Websites</a></li>
     </ul>
   </footer>
 </article>
