@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MOSbius on Peter R. Kinget</title>
-    <link>https://peterkinget.github.io/tags/mosbius/</link>
+    <link>https:/://peterkinget.github.io/tags/mosbius/</link>
     <description>Recent content in MOSbius on Peter R. Kinget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2025 19:21:49 -0400</lastBuildDate>
-    <atom:link href="https://peterkinget.github.io/tags/mosbius/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https:/://peterkinget.github.io/tags/mosbius/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching</title>
-      <link>https://peterkinget.github.io/teaching/</link>
+      <link>https:/://peterkinget.github.io/teaching/</link>
       <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
-      <guid>https://peterkinget.github.io/teaching/</guid>
+      <guid>https:/://peterkinget.github.io/teaching/</guid>
       <description>&lt;h2 id=&#34;education-projects&#34;&gt;Education Projects&lt;/h2&gt;
 &lt;h3 id=&#34;vlsi-design-labhttpsvlsidesignlaborg&#34;&gt;&lt;a href=&#34;https://vlsidesignlab.org&#34; target=&#34;_blank&#34;&gt;VLSI Design Lab&lt;/a&gt;&lt;/h3&gt;
 &lt;table&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title>MOSbius: IC-Style Circuit Labs at the Lunch Table</title>
-      <link>https://peterkinget.github.io/posts/20241220/</link>
+      <link>https:/://peterkinget.github.io/posts/20241220/</link>
       <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
-      <guid>https://peterkinget.github.io/posts/20241220/</guid>
+      <guid>https:/://peterkinget.github.io/posts/20241220/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;mosbius_overview.jpeg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Posted on LinkedIn:&lt;/strong&gt; Want to offer your students hands-on labs in your integrated-circuits courses connecting measurement, simulation, and analysis? We created the MOSbius chip for that purpose! Documentation and example experiments are available at &lt;a href=&#34;https://mosbius.org&#34; target=&#34;_blank&#34;&gt;https://mosbius.org&lt;/a&gt;.&lt;/p&gt;
