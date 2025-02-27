@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Peter R. Kinget</title>
+    <link>https://peterkinget.github.io/tags/</link>
+    <description>Recent content in Tags on Peter R. Kinget</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2025 19:21:49 -0400</lastBuildDate>
+    <atom:link href="https://peterkinget.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MOSbius</title>
+      <link>https://peterkinget.github.io/tags/mosbius/</link>
+      <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
+      <guid>https://peterkinget.github.io/tags/mosbius/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VlsiDesignLab</title>
+      <link>https://peterkinget.github.io/tags/vlsidesignlab/</link>
+      <pubDate>Sat, 25 Jan 2025 19:21:49 -0400</pubDate>
+      <guid>https://peterkinget.github.io/tags/vlsidesignlab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HUGO</title>
+      <link>https://peterkinget.github.io/tags/hugo/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Websites</title>
+      <link>https://peterkinget.github.io/tags/websites/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/tags/websites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>https://peterkinget.github.io/tags/linkedin/</link>
+      <pubDate>Fri, 20 Dec 2024 11:58:27 -0400</pubDate>
+      <guid>https://peterkinget.github.io/tags/linkedin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
