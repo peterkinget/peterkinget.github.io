@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/hugo-website/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=hugo-website/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>New Website Built with Hugo and GitHub Pages | Peter R. Kinget</title>
+<meta name="keywords" content="HUGO, websites">
+<meta name="description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.">
+<meta name="author" content="Peter R. Kinget">
+<link rel="canonical" href="http://localhost:1313/hugo-website/posts/20250125b/">
+<link crossorigin="anonymous" href="/hugo-website/assets/css/stylesheet.d5a66b4120538d94b8bde20fa16823827bfaddf490ae23b958bb596bc2f702f9.css" integrity="sha256-1aZrQSBTjZS4veIPoWgjgnv63fSQriO5WLtZa8L3Avk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/hugo-website/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/hugo-website/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/hugo-website/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/hugo-website/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/hugo-website/posts/20250125b/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="New Website Built with Hugo and GitHub Pages" />
+<meta property="og:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/hugo-website/posts/20250125b/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2025-01-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-01-25T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="New Website Built with Hugo and GitHub Pages"/>
+<meta name="twitter:description" content="Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.
+How did I build this website?
+NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "http://localhost:1313/hugo-website/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "New Website Built with Hugo and GitHub Pages",
+      "item": "http://localhost:1313/hugo-website/posts/20250125b/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "New Website Built with Hugo and GitHub Pages",
+  "name": "New Website Built with Hugo and GitHub Pages",
+  "description": "Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\n",
+  "keywords": [
+    "HUGO", "websites"
+  ],
+  "articleBody": "Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.\nHow did I build this website? NOTE: I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.\nHUGO I am using Hugo since it’s actively being developed, has various themes, and builds a static website from source files on your computer. You do not get locked into a hosting service’s proprietary publishing software or templates.\nI further prefer the command-line nature of building the site with the hugo command and the publication of the site also happens from the commandline with git. I edit the ‘source’ files (.md, .yml, .html, …) with vscode but you can use anything else.\nTemplate First, I googled site:edu “powered by Hugo” to see what templates academics are using. The ones that I liked were ‘PaperMod’, ‘Hugo Cards’, and ‘Hugo Coder’ for a personal profile site; ‘Docks’ and ‘Academic Theme` are probably more suited for a research group site.\nI settled for PaperMod and more specifically used the modified version by Pascal Michaillet; he provides a template website, that I downloaded through a zip file1 and unzipped on my computer. The template already has the correct hugo folders, includes a config.yml and includes the theme files, so it is very easy to get started. From here on, it was mostly editing the existing files and adding my own materials.\nConfiguring the Site config.yml is the key file you need to customize from the template to make the site your own.\nbaseURL is important; it is the base URL for where you will be publishing the site; it needs to end with a /. menu is for the menu in the upper right corner of the pages params: –\u003e profileMode: –\u003e enabled: true is what makes the root page a picture with some text and buttons. params: –\u003e socialIcons: show up on the profile page. Building Pages You need to get familiar with Markdown since that is the easiest way to write new content for Hugo. You can also have html files and even org files I believe.\nWhen you want to create a page, you have to put a file in the contents folder. E.g. if you make a file first_page.md in contents, then when you run hugo build you will get a file /first_page/index.html generated in the build folder (typically public or docs), which can be accessed as /first_page once you post the site.\nThe .md files need to have the right heading to get processed by hugo:\n--- title: \"First Page\" date: 2025-01-25 description: \"First Page\" --- There are hugo commands to create new contents like hugo new\nStatic material goes into the static folder under the correct subfolder; so, e.g., images for the first_page.md can be put in static/first_page/img/first_image.png and can then be added to first_page.md with ![](img/first_image.png)\nI had an older website and at this point have in many cases brought over the html files and converted them in md files with the right header, but still the html inside; see e.g. Publications\nSome Tips hugo server is very handy to view your webpages in a browser as you are writing them; some times the changes ‘do not take’, so you have to exit it and restart it.\nThe links to other pages or static material are sometimes a bit hard to figure out, but hugo server can be quite helpful with that.\nTwo ways of putting a figure in an .md file:\n![](../images/photo_1996.gif) is standard markdown, \\{\\{\u003c figure src=\\\"../images/photo_jan_2011.png\\\" height=\\\"200px\\\"\u003e\\}\\} is a hugo directive that allows you to control the size of the figure; the \\ do not need to be included, I needed them here to avoid errors for this page. You can have links to headers in md pages; the link on top will point to the header below:\n| [Books](#books) | ## Books - A first book to read GitHub Pages I am using GitHub pages to host this site at https://peterkinget.github.io (so this my baseURL with an extra / at the end).\nYou need to be familiar with GitHub repositories to understand the notes below.\nRepositories I have a public repository peterkinget.github.io as GitHub recommends. I am only publishing the final site there though, not the original, full hugo site.\nI have a separate ‘source’ repository hugo-site that I use to sync the full hugo folder on my computer. That folder gets published also as https://peterkinget.github.io/hugo-site/ (again, make sure the baseURL is correct in config.yml). I find it useful to keep things separate and can verify updates before posting them on my actual site.\nPublishing a repository In Github go to your repository –\u003e Settings –\u003e Pages –\u003e ‘Deploy from a branch’ –\u003e main \u0026 /docs. If all goes right, GitHub puts the URL on the top of this settings page, but you might have to wait a bit.\nCheck the ‘Actions’ tab for the repository to see if the publishing was successful.\nYou need to instruct hugo to build in the /docs folder by having publishDir: docs near the top of your config.yml since GitHub can only serve your site from a /docs folder.\nSince my base URL is set to https://peterkinget.github.io/hugo-site/ in my ‘source’ hugo-site repo, I have to tell hugo to build the site with a different baseURL when I am ready to upload it to the peterkinget.github.io repo using hugo build --baseURL \"https:///\"; then clear ( with rm) the peterkinget.github.io folder on my computer and mv the files from hugo-site/docs into the peterkinget.github.io/ folder, followed by the git commands to add, commit, and push that folder to the repository.\nSome Tips When you update your repository on GitHub, it will start processing the files right away. To see the progress and any possible issues look at Actions for your repository.\nIf you decide to start a hugo site from scratch (and not from a template site like above), then you will likely install the ’theme’ using git. Make sure to add it as a submodule, since you will sync your overall folder to your own repository. You will need to use something like git submodule add and not git clone, otherwise GitHub will later have trouble publishing your site (see Actions mentioned above).\nYou can use GitHub workflows to make the hugo site from the repository, but I have not tried that yet. Here is a link I am saving for possible future use.\nTO-DO Understand the ‘posts’ and ‘posting’ better, including tags and categories. Add commenting to posts using utterances. By using zip instead of git clone it’s easier to then later connect the folder to your own GitHub repository. ↩︎\n",
+  "wordCount" : "1169",
+  "inLanguage": "en",
+  "datePublished": "2025-01-25T00:00:00Z",
+  "dateModified": "2025-01-25T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Peter R. Kinget"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/hugo-website/posts/20250125b/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Peter R. Kinget",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/hugo-website/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/hugo-website/" accesskey="h" title="Peter Kinget">
+                <img src="http://localhost:1313/hugo-website/images/old_favicon.ico" alt="" aria-label="logo"
+                    height="22"
+                    width="22">Peter Kinget</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/hugo-website/biography" title="Bio">
+                    <span>Bio</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/contact" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/teaching" title="Teaching">
+                    <span>Teaching</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/publications/" title="Publications">
+                    <span>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.kingetgroup.ee.columbia.edu/" title="Research Group">
+                    <span>Research Group</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/why_analog" title="Why Analog">
+                    <span>Why Analog</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/hugo-website/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      New Website Built with Hugo and GitHub Pages
+    </h1>
+    <div class="post-meta"><span title='2025-01-25 00:00:00 +0000 UTC'>January 2025</span>&nbsp;&middot;&nbsp;6 min&nbsp;&middot;&nbsp;Peter R. Kinget
+
+</div>
+  </header> 
+  <div class="post-content"><p>Proud to present my new website developed with Hugo and hosted on GitHub Pages and discuss here how I built the site.</p>
+<h1 id="how-did-i-build-this-website">How did I build this website?</h1>
+<p><strong>NOTE:</strong> <em>I am not trying to write a full tutorial, there are (too) many already out there. I am outlining how I went about building this website and I am documenting some things I had to learn the hard way, i.e. lost too much time for something that was relatively simple in hindsight but I just did not find it easily in the existing tutorials.</em></p>
+<h2 id="hugo">HUGO</h2>
+<p>I am using <a href="https://gohugo.io/" target="_blank">Hugo</a> since it&rsquo;s actively being developed, has various themes, and builds a static website from source files on your computer. You do not get locked into a hosting service&rsquo;s proprietary publishing software or templates.</p>
+<p>I further prefer the command-line nature of building the site with the <code>hugo</code> command and the publication of the site also happens from the commandline with <code>git</code>. I edit the &lsquo;source&rsquo; files (.md, .yml, .html, &hellip;) with <code>vscode</code> but you can use anything else.</p>
+<h3 id="template">Template</h3>
+<p>First, I googled <a href="https://www.google.com/search?q=site:.edu&#43;%22powered&#43;by&#43;hugo%22" target="_blank">site:edu &ldquo;powered by Hugo&rdquo;</a> to see what templates academics are using. The ones that I liked were &lsquo;PaperMod&rsquo;, &lsquo;Hugo Cards&rsquo;, and &lsquo;Hugo Coder&rsquo; for a personal profile site; &lsquo;Docks&rsquo; and &lsquo;Academic Theme` are probably more suited for a research group site.</p>
+<p>I settled for <a href="https://github.com/adityatelange/hugo-PaperMod/" target="_blank">PaperMod</a> and more specifically used the <a href="https://pascalmichaillat.org/d5/" target="_blank">modified version by Pascal Michaillet</a>; he provides a <a href="https://github.com/pmichaillat/hugo-website" target="_blank">template website</a>, that I downloaded through a zip file<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and unzipped on my computer. The template already has the correct hugo folders, includes a <code>config.yml</code> and includes the theme files,  so it is very easy to get started. From here on, it was mostly editing the existing files and adding my own materials.</p>
+<h3 id="configuring-the-site">Configuring the Site</h3>
+<p><code>config.yml</code> is the key file you need to customize from the template to make the site your own.</p>
+<ul>
+<li><code>baseURL</code> is important; it is the base URL for where you will be publishing the site; it needs to end with a <code>/</code>.</li>
+<li><code>menu</code> is for the menu in the upper right corner of the pages</li>
+<li><code>params:</code> &ndash;&gt; <code>profileMode:</code> &ndash;&gt; <code>enabled: true</code> is what makes the root page a picture with some text and buttons.</li>
+<li><code>params:</code> &ndash;&gt; <code>socialIcons:</code> show up on the profile page.</li>
+</ul>
+<h3 id="building-pages">Building Pages</h3>
+<ul>
+<li>
+<p>You need to get familiar with Markdown since that is the easiest way to write new content for Hugo. You can also have <code>html</code> files and even <code>org</code> files I believe.</p>
+</li>
+<li>
+<p>When you want to create a page, you have to put a file in the <code>contents</code> folder. E.g. if you make a file <code>first_page.md</code> in <code>contents</code>, then when you run <code>hugo build</code> you will get a file <code>/first_page/index.html</code> generated in the build folder (typically <code>public</code> or <code>docs</code>), which can be accessed as <code>&lt;baseURL&gt;/first_page</code> once you post the site.</p>
+</li>
+<li>
+<p>The <code>.md</code> files need to have the right heading to get processed by <code>hugo</code>:</p>
+</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>title: &#34;First Page&#34;
+</span></span><span style="display:flex;"><span>date: 2025-01-25
+</span></span><span style="display:flex;"><span>description: &#34;First Page&#34;
+</span></span><span style="display:flex;"><span>--- 
+</span></span></code></pre></div><ul>
+<li>
+<p>There are hugo commands to create new contents like <code>hugo new</code></p>
+</li>
+<li>
+<p>Static material goes into the <code>static</code> folder under the correct subfolder; so, e.g., images for the <code>first_page.md</code> can be put in <code>static/first_page/img/first_image.png</code> and can then be added to <code>first_page.md</code> with <code>![](img/first_image.png)</code></p>
+</li>
+<li>
+<p>I had an <a href="https://www.ee.columbia.edu/~kinget/home.html" target="_blank">older website</a> and at this point have in many cases brought over the <code>html</code> files and converted them in <code>md</code> files with the right header, but still the html inside; see e.g. <a href="../../publications/">Publications</a></p>
+</li>
+</ul>
+<h3 id="some-tips">Some Tips</h3>
+<ul>
+<li>
+<p><code>hugo server</code> is very handy to view your webpages in a browser as you are writing them; some times the changes &lsquo;do not take&rsquo;, so you have to exit it and restart it.</p>
+</li>
+<li>
+<p>The links to other pages or static material are sometimes a bit hard to figure out, but <code>hugo server</code> can be quite helpful with that.</p>
+</li>
+<li>
+<p>Two ways of putting a figure in an .md file:</p>
+<ul>
+<li><code>![](../images/photo_1996.gif)</code> is standard markdown,</li>
+<li><code>\{\{&lt; figure src=\&quot;../images/photo_jan_2011.png\&quot; height=\&quot;200px\&quot;&gt;\}\}</code> is a hugo directive that allows you to control the size of the figure; the <code>\</code> do not need to be included, I needed them here to avoid errors for this page.</li>
+</ul>
+</li>
+<li>
+<p>You can have links to headers in md pages; the link on top will point to the header below:</p>
+</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>| [<span style="color:#1e90ff;font-weight:bold">Books</span>](<span style="color:#1e90ff">#books</span>) | 
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#800080;font-weight:bold">## Books 
+</span></span></span><span style="display:flex;"><span><span style="color:#800080;font-weight:bold"></span><span style="color:#00a">-</span> A first book to read
+</span></span></code></pre></div><h2 id="github-pages">GitHub Pages</h2>
+<p>I am using GitHub pages to host this site at <code>https://peterkinget.github.io</code> (so this my <code>baseURL</code> with an extra <code>/</code> at the end).</p>
+<p>You need to be familiar with GitHub repositories to understand the notes below.</p>
+<h3 id="repositories">Repositories</h3>
+<ul>
+<li>
+<p>I have a public repository <code>peterkinget.github.io</code> as GitHub recommends. I am only publishing the final site there though, not the original, full hugo site.</p>
+</li>
+<li>
+<p>I have a separate &lsquo;source&rsquo; repository <code>hugo-site</code> that I use to sync the full hugo folder on my computer. That folder gets published also as <code>https://peterkinget.github.io/hugo-site/</code> (again, make sure the baseURL is correct in <code>config.yml</code>). I find it useful to keep things separate and can verify updates before posting them on my actual site.</p>
+</li>
+</ul>
+<h3 id="publishing-a-repository">Publishing a repository</h3>
+<ul>
+<li>
+<p>In Github go to your repository &ndash;&gt; Settings &ndash;&gt; Pages &ndash;&gt; &lsquo;Deploy from a branch&rsquo; &ndash;&gt; <code>main</code> &amp; <code>/docs</code>. If all goes right, GitHub puts the URL on the top of this settings page, but you might have to wait a bit.</p>
+</li>
+<li>
+<p>Check the &lsquo;Actions&rsquo; tab for the repository to see if the publishing was successful.</p>
+</li>
+<li>
+<p>You need to instruct hugo to build in the <code>/docs</code> folder by having <code>publishDir: docs</code> near the top of your <code>config.yml</code> since GitHub can only serve your site from a <code>/docs</code> folder.</p>
+</li>
+<li>
+<p>Since my base URL is set to <code>https://peterkinget.github.io/hugo-site/</code> in my &lsquo;source&rsquo; <code>hugo-site</code> repo, I have to tell hugo to build the site with a different baseURL when I am ready to upload it to the <code>peterkinget.github.io</code> repo using <code>hugo build --baseURL &quot;https://&lt;the correct baseURL&gt;/&quot;</code>; then clear ( with <code>rm</code>) the <code>peterkinget.github.io</code> folder on my computer and <code>mv</code> the files from <code>hugo-site/docs</code> into the <code>peterkinget.github.io/</code> folder, followed by the <code>git</code> commands to add, commit, and push that folder to the repository.</p>
+</li>
+</ul>
+<h3 id="some-tips-1">Some Tips</h3>
+<ul>
+<li>
+<p>When you update your repository on GitHub, it will start processing the files right away. To see the progress and any possible issues look at <code>Actions</code> for your repository.</p>
+</li>
+<li>
+<p>If you decide to start a hugo site from scratch (and not from a template site like above), then you will likely install the &rsquo;theme&rsquo; using git. Make sure to add it as a submodule, since you will sync your overall folder to your own repository. You will need to use something like <code>git submodule add &lt;URL_for_theme_repository&gt; &lt;theme_folder&gt;</code> and not <code>git clone</code>, otherwise GitHub will later have trouble publishing your site (see <code>Actions</code> mentioned above).</p>
+</li>
+<li>
+<p>You can use GitHub workflows to make the hugo site from the repository, but I have not tried that yet. Here is a <a href="https://keanteng.github.io/home/docs/2023_04_09-creating-a-website-with-hugo--papermode/" target="_blank">link</a> I am saving for possible future use.</p>
+</li>
+</ul>
+<h2 id="to-do">TO-DO</h2>
+<ul>
+<li>Understand the &lsquo;posts&rsquo; and &lsquo;posting&rsquo; better, including <code>tags</code> and <code>categories</code>.</li>
+<li>Add commenting to posts using <code>utterances</code>.</li>
+</ul>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>By using zip instead of <code>git clone</code> it&rsquo;s easier to then later connect the folder to your own GitHub repository.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/hugo-website/tags/hugo/">HUGO</a></li>
+      <li><a href="http://localhost:1313/hugo-website/tags/websites/">Websites</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2025 <a href="http://localhost:1313/hugo-website/">Peter R. Kinget</a></span> ·     
+    <span>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
+         of 
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>
