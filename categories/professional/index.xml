@@ -6,8 +6,18 @@
     <description>Recent content in Professional on Peter R. Kinget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://peterkinget.github.io/categories/professional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The next discoveries made with the LHC will be triggered by one Columbia chip and measured by another</title>
+      <link>https://peterkinget.github.io/posts/20250726/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://peterkinget.github.io/posts/20250726/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;atlas_adc.png&#34; alt=&#34;atlas_adc&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;The next discoveries made with the CERN LHC will be triggered by one Columbia chip and measured by another.&amp;rdquo;&lt;/em&gt; Columbia Engineering features a nice &lt;a href=&#34;https://www.engineering.columbia.edu/about/news/engineering-next-generation-experimental-physics&#34; target=&#34;_blank&#34;&gt;overview article&lt;/a&gt; &lt;a href=&#34;EngineeringNextGenerationExperimentalPhysics.pdf&#34;&gt;(pdf)&lt;/a&gt;) of our collaboration with the &lt;a href=&#34;https://www.nevis.columbia.edu/~atlas/&#34; target=&#34;_blank&#34;&gt;Columbia ATLAS Group&lt;/a&gt; at the &lt;a href=&#34;https://www.nevis.columbia.edu/nevis-science.html&#34; target=&#34;_blank&#34;&gt;Nevis Laboratories&lt;/a&gt; designing two high performance, radiation-hard ADCs for the &lt;a href=&#34;https://www.nevis.columbia.edu/particle/atlas.html&#34; target=&#34;_blank&#34;&gt;ATLAS experiment&lt;/a&gt; in the &lt;a href=&#34;https://home.web.cern.ch/science/accelerators/old-large-hadron-collider&#34; target=&#34;_blank&#34;&gt;Large Hadron Collider (LHC)&lt;/a&gt; at &lt;a href=&#34;https://home.cern&#34; target=&#34;_blank&#34;&gt;CERN&lt;/a&gt;. It has been an honor to collaborate with &lt;a href=&#34;https://particle.physics.columbia.edu/people/john-parsons&#34; target=&#34;_blank&#34;&gt;John Parsons&lt;/a&gt;, &lt;a href=&#34;https://particle.physics.columbia.edu/people/gustaaf-h-brooijmans&#34; target=&#34;_blank&#34;&gt;Gustaaf Brooijmans&lt;/a&gt;, &lt;a href=&#34;https://www.nevis.columbia.edu/~ban/&#34; target=&#34;_blank&#34;&gt;Jaro Ban&lt;/a&gt;, &lt;a href=&#34;https://cloud.wikis.utexas.edu/wiki/spaces/utatlas/pages/50626823/Home&amp;#43;-&amp;#43;Andeen&#34; target=&#34;_blank&#34;&gt;Tim Andeen&lt;/a&gt;, &lt;a href=&#34;https://sunlab.ee.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Nan Sun&lt;/a&gt;, and many others.&lt;/p&gt;
+&lt;p&gt;The &amp;rsquo;numbers&amp;rsquo; of this experiment are mind boggling: the tunnel is 27km long, the particles race at 99.999999%  of the speed of light in bunches with a bunch-crossing rate of 40MHz, creating about 1 billion collisions per second. The detector is several stories high and has more than 180,000 channels, requiring two ADCs. For the next LHC upgrade starting in 2026, more than 45,000 of our &lt;a href=&#34;https://ieeexplore.ieee.org/document/11017335&#34; target=&#34;_blank&#34;&gt;8-channel ADC chips&lt;/a&gt; will be installed.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Interview on MOSbius with Matt Venn (Zero to ASIC Course)</title>
       <link>https://peterkinget.github.io/posts/20250624/</link>
